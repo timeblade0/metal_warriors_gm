@@ -1,7 +1,7 @@
 # Metal Warriors
 
 My first game. Based on Metal Warriors and Megman X from SNES  
-Created with Game Maker Studio.  
+Created with Game Maker Studio 2.  
 
 Controls:  
 ------------------  
