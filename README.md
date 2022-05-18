@@ -3,6 +3,8 @@
 My first game. Based on Metal Warriors and Megman X from SNES  
 Created with Game Maker Studio 2.  
 
+![Screenshot](https://github.com/timeblade0/metal_warriors/blob/main/screenshot.png)
+
 Controls:  
 ------------------  
 All:  
@@ -29,5 +31,3 @@ Pilot: (No Mech)
   Left/Right = Move  
   Z = Fly  
   A = Shoot  
-
-![Screenshot](https://github.com/timeblade0/metal_warriors/blob/main/screenshot.png)
