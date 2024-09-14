@@ -1,33 +1,32 @@
 # Metal Warriors
 
-My first game. Based on Metal Warriors and Megman X from SNES  
-Created with Game Maker Studio 2.  
+Based on Metal Warriors and Megman X from SNES  
+Created with Game Maker Studio.  
 
-![Screenshot](https://github.com/timeblade0/metal_warriors/blob/main/screenshot.png)
+![Screenshot](https://github.com/timeblade0/metal_warriors_gm/blob/main/screenshot.png)
 
-Controls:  
-------------------  
-All:  
-  Esc = Exit  
-  F2 = restart game  
-  F4 = toggle fullscreen  
-  Space = enter/exit mech  
-  Enter = pause  
+# Controls:
+## All:  
+- `Esc` = Exit
+- `F2` = restart game  
+- `F4` = toggle fullscreen  
+- `Space` = enter/exit mech  
+- `Enter` = pause  
 
-Nitro: (Basic Mech)  
-  Left/Right = move  
-  Up/Down = change aim  
-  Z = Fly  
-  A = shoot  
+## Nitro: (Basic Mech)  
+- `Left/Right` = move  
+- `Up/Down` = change aim  
+- `Z` = Fly  
+- `A` = shoot  
 
-Drache: (UFO)  
-  Arrow Keys = Move  
-  S = shoot up  
-  A = shoot left  
-  X = shoot right  
-  Z = shoot down  
+## Drache: (UFO)  
+- `Arrow Keys` = Move  
+- `S` = shoot up  
+- `A` = shoot left  
+- `X` = shoot right  
+- `Z` = shoot down  
 
-Pilot: (No Mech)  
-  Left/Right = Move  
-  Z = Fly  
-  A = Shoot  
+## Pilot: (No Mech)  
+- `Left/Right` = Move  
+- `Z` = Fly  
+- `A` = Shoot  
